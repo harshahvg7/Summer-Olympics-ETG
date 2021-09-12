@@ -1,7 +1,8 @@
 # Summer-Olympics-ETG
 This respository contains python assignment codes with csv file for Data Analysis of Summer Olympics 
 
-It answers to the following questions:
+It has answers to the following questions:
+
 1.In how many cities Summer Olympics is held so far?
 
 2.Which sport is having most number of Gold Medals so far? (Top 5)
